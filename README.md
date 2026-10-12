@@ -2,22 +2,6 @@ Practical 1: Photoshop Interface and Basic Tools
 
 Module 1
 
-Objective: To understand the Adobe Photoshop workspace and practice basic editing tools.
-
-Task Requirements
-
-Create a new document of 1200 x 800 pixels.
-
-Explore the Toolbar, Options Bar, Layers Panel, Properties, and Menu Bar.
-
-Use Move, Marquee, Lasso, Brush, Eraser, Crop, and Shape tools.
-
-Create a simple composition using at least three shapes and two different colors.
-
-Add text containing your Name, Roll Number, and Course.
-
-Save the editable file as PSD and export the final composition as JPG or PNG.
-
 Step-by-Step Procedure
 
 1 File > New. Set Width 1200 px, Height 800 px, Resolution 72 ppi, RGB. Click Create.
@@ -28,6 +12,93 @@ Step-by-Step Procedure
 
 4 Try the Move (V), Rectangular Marquee (M), Lasso (L), Brush (B), Eraser (E) and Crop (C) tools. Do a small edit with each so you can describe it.
 
+Practical 2: Photo Editing and Basic Retouching
+
+
+Step-by-Step Procedure
+
+1 Open your own photo (File > Open). Duplicate the background layer (Ctrl+J) and keep the original for the Before shot.
+
+2 Use the Crop tool (C); use the Straighten option to level the horizon, then press Enter.
+
+3 Image > Adjustments > Brightness/Contrast; adjust modestly.
+
+4 Image > Adjustments > Color Balance and Hue/Saturation for basic color correction.
+
+5 Remove 3 blemishes or objects with the Spot Healing Brush (J) or Clone Stamp (S, Alt-click to sample).
+
+6 Place Before and After side by side on a new canvas and export as Before_After_Practical_02.jpg.
+
+7 Save PSD and export the final JPG.
+
 5 Select the Type tool (T) and type: Your Name, Roll No, Course (Desktop Publishing - UAC012P).
 
 6 File > Save As > Photoshop (.psd). Then File > Export > Export As > JPG.
+
+Practical 3: Layers, Masks and Creative Composition
+
+
+Step-by-Step Procedure
+
+1 Create a new document and fill a background (gradient or sky color).
+
+2 Place 3 or more travel photos (File > Place Embedded). Rename each layer (e.g. Mountain, Beach, City).
+
+3 Select a layer, click Add Layer Mask, and paint with a black soft brush to hide edges and blend photos smoothly.
+
+4 Use Ctrl+T (Free Transform) to resize and position each photo.
+
+5 Add a title such as 'Explore the World and supporting text with the Type tool.
+
+6 Add a Layer Style (fx button): Drop Shadow, Stroke or Outer Glow on the title.
+
+7 Save PSD, export JPG.
+Practical 4: Advanced Selection, Color Correction and Adjustment Layers
+Step-by-Step Procedure
+
+1 Open a photo with a clear subject (person, flower, car).
+
+2 Use the Quick Selection tool (W) to select the subject.
+
+3 Click Select and Mask to refine edges (Smooth, Feather, Shift Edge); output to Selection.
+
+4 With the selection active, add a Hue/Saturation adjustment layer (Layer > New Adjustment Layer); its mask is created automatically from the selection.
+
+5 Add a second adjustment layer, e.g. Curves or Color Balance, on the background.
+
+6 Fine-tune each layer mask with a soft brush.
+
+7 Place original and edited versions side by side; save PSD and export JPG.
+Practical 5: Filters, Effects, Custom Brushes and Blending Modes 
+
+Step-by-Step Procedure
+
+1 File > New, 1200 x 800 px. Fill with a gradient background.
+
+2 Apply two filters, e.g. Filter > Blur > Gaussian Blur and Filter > Noise > Add Noise (or Filter Gallery).
+
+3 Draw a simple shape (star, dot), then Edit > Define Brush Preset to make a custom brush. Paint with it on a new layer, adjusting Brush Settings (spacing, scattering).
+
+4 Set two layers to blending modes such as Overlay and Multiply (or Screen/Soft Light) in the Layers panel.
+
+5 Add a Layer Style (Drop Shadow/Outer Glow) to a layer.
+
+7 Keep elements on separate named layers. Save PSD and export PNG.
+
+6 Add creative text with a suitable font pairing  
+Practical 6: Complete Photoshop Project - Promotional Poster
+Step-by-Step Procedure
+
+1 Choose an event (e.g. Tech Fest 2026) and create an A4/poster-size document.
+
+2 Build the background and place relevant images; use Quick Selection/Select and Mask to cut out a subject.
+
+3 Blend images with a Layer Mask; color-grade with an Adjustment Layer.
+
+4 Apply a Filter (e.g. Gaussian Blur on the background) and a Blending Mode (e.g. Overlay on a texture).
+
+5 Add a custom brush effect (sparkles, grunge edges).
+
+6 Add text: event name, date/time, venue, organizer/department. Add a Layer Style to the title.
+
+7 Group and rename layers (e.g. Background, Subject, Title, Details). Save PSD, export JPG.
